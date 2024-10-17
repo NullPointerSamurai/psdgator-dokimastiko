@@ -20,8 +20,5 @@
 - **Theme**: psdgator
 
 
-dyghchvh_wp_0xvbt.sql -> database
-wordpress_files.zip -> WP Fles
-
 > [!NOTE]  
 > Λείπει το section με τα rating καθώς δεν ήθελα απλά να το βάλω σαν εικαστικό.
