@@ -18,4 +18,4 @@
 - **Έκδοση WordPress**: 6.6.2
 - **Έκδοση WooCommerce**: 9.3.3
 - **PHP**: 8.3
-- **Theme: psdgator
+- **Theme**: psdgator
