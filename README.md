@@ -1,6 +1,5 @@
 # Σημειώσεις
 
-$RqA(!6K*%*kbm~A ssh
 - **Χωρίς Child Theme**: Δεν έχει δημιουργηθεί Child Theme και δεν έχει δοθεί ιδιαίτερη έμφαση στο SEO.
 - **Βελτιστοποίηση Εικόνων**: Οι μεγάλες εικόνες έχουν συμπιεστεί μέσω του tinyJPEG για βελτίωση της ταχύτητας φόρτωσης.
 - **Διαχείριση Εικόνων**: Οι φωτογραφίες έχουν ενσωματωθεί απευθείας στη διαχείριση του WordPress και δεν έχουν αποθηκευτεί σε φάκελο.
@@ -21,23 +20,7 @@ $RqA(!6K*%*kbm~A ssh
 - **Theme**: psdgator
 
 
-Generating public/private rsa key pair.
-Enter passphrase (empty for no passphrase): 
-Enter same passphrase again: 
-Your identification has been saved in /home/dyghchvh/.ssh/id_rsa.
-Your public key has been saved in /home/dyghchvh/.ssh/id_rsa.pub.
-The key fingerprint is:
-SHA256:4/p3lBodUHOqq+A5hPuKHXD5jKt1JR5a/29zv/0jItM 
-The key's randomart image is:
-+---[RSA 2048]----+
-|           .o .  |
-|          .  +   |
-|           ..    |
-|     .     ..    |
-|  . o.+ S .. o   |
-|   o.B.* ...+    |
-|    =o* o o+     |
-|   +.=.+ =oE+....|
-|  o.+o=oo.++oo.oB|
-+----[SHA256]-----+
 
+
+> [!NOTE]  
+> Λείπει το section με τα rating καθώς δεν ήθελα απλά να το βάλω σαν εικαστικό.
